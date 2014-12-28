@@ -1,6 +1,8 @@
 Some Debugging Utilities
 =======================
 
+Pre-alpha state.. don't use this yet :)
+
 Right now there's just one:
 parr(array, indexes)
 This will print the array, and color each index of indexes in array.
