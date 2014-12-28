@@ -1,6 +1,9 @@
-A sample Python project
+Some Debugging Utilities
 =======================
 
-A sample project that exists as an aid to the `Python Packaging User Guide
-Tutorial
-<https://python-packaging-user-guide.readthedocs.org/en/latest/tutorial.html>`_.
+Right now there's just one:
+parr(array, indexes)
+This will print the array, and color each index of indexes in array.
+
+For example:
+parr([5, 6, 9], [1]) Will print "5 6 9", where 6 has a grey background.
