@@ -16,4 +16,4 @@ def sarr(arr, loc):
 
 
 def parr(arr, loc):
-    print sarr(arr, loc)
+    print(sarr(arr, loc))
